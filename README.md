@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
+
 
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
