@@ -1,16 +1,14 @@
-<h1 align="center">Welcome to Mohamed Yasser Smadony's profile 👋 </h1>
+<h1 align="center">Welcome toahmed zain's profile 👋 </h1>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 **EL Sherouk Academy - Faculty of Engineering**
-- 👷‍♂️  I'm Civil engineer and working as site engineer at Taj Misr company.
-- 👨‍💻  I have made a career shift to the field of programming.
+- 🏢 **Tanta university - Faculty of computerscience and information technology**
 - 🌱  I’m currently learning ervery thing about Front-end development.
 - 👨‍💻  constantly learning new technologies to improve my skills.
-- 💬 **Ask me about python , programming or anything related to web development.**
+- 💬 **Ask me about  programming or anything related to web development.**
 - ⚡ Fun fact: i'm a cat lover 🐈
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -30,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-yasser-6869291a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Yasser" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007894515591&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Yasser" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__smadony__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__smadony__" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/mohamed-yasser-6869291a3/](https://www.linkedin.com/in/ahmed-zain-134084337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Yasser" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/profile.php?id=100007894515591&mibextid=ZbWKwL](https://www.facebook.com/share/15nd49hTb5/?mibextid=qi2Omg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Yasser" height="30" width="40" /></a>
+
 
